@@ -1,5 +1,5 @@
 # Pick your baseUrl here:
-@baseUrl = http://localhost:3002
+@baseUrl = content_gen
 # @baseUrl = https://api.firecrawl.dev
 
 ### Scrape Website
