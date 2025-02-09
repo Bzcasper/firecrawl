@@ -1,5 +1,5 @@
 # Pick your baseUrl here:
-@baseUrl = content_gen
+@baseUrl = firecrawl-production-f9e7.up.railway.app
 # @baseUrl = https://api.firecrawl.dev
 
 ### Scrape Website
